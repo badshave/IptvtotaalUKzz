@@ -1,0 +1,316 @@
+#EXTINF:-1 tvg-id="btsports1.uk" tvg-name="UK: BT Sports 1 FHD" tvg-logo="https://tlgur.com/d/4yqEQMe4" group-title="UK Sports",UK: BT Sports 1 FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125438
+#EXTINF:-1 tvg-id="btsports1.uk" tvg-name="UK: BT Sports 1 FHD 50FPS" tvg-logo="https://tlgur.com/d/GaxPVkW8" group-title="UK Sports",UK: BT Sports 1 FHD 50FPS
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125439
+#EXTINF:-1 tvg-id="btsports2.uk" tvg-name="UK: BT Sports 2 FHD" tvg-logo="https://tlgur.com/d/g0ZDvQX8" group-title="UK Sports",UK: BT Sports 2 FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125440
+#EXTINF:-1 tvg-id="btsports2.uk" tvg-name="UK: BT Sports 2  FHD 50FPS" tvg-logo="https://tlgur.com/d/8nlEazYg" group-title="UK Sports",UK: BT Sports 2  FHD 50FPS
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125441
+#EXTINF:-1 tvg-id="btsports3.uk" tvg-name="UK: BT Sports 3 FHD" tvg-logo="https://tlgur.com/d/g6RABXrg" group-title="UK Sports",UK: BT Sports 3 FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125442
+#EXTINF:-1 tvg-id="btsports3.uk" tvg-name="UK: BT Sports 3 FHD 50FPS" tvg-logo="https://tlgur.com/d/GMxzROx8" group-title="UK Sports",UK: BT Sports 3 FHD 50FPS
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125443
+#EXTINF:-1 tvg-id="btsportsespn.uk" tvg-name="UK: BT Sports 4 FHD" tvg-logo="https://tlgur.com/d/4qqEJ5v4" group-title="UK Sports",UK: BT Sports 4 FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125444
+#EXTINF:-1 tvg-id="btsportespn.uk" tvg-name="UK: BT Sports 4 FHD 50FPS" tvg-logo="https://tlgur.com/d/GYYOxpPG" group-title="UK Sports",UK: BT Sports 4 FHD 50FPS
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125445
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Mosaic SD" tvg-logo="https://i.postimg.cc/cHBCRKrj/btsport.jpg" group-title="UK Sports",UK: BT Sport Mosaic SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125446
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Mosaic 2 SD" tvg-logo="https://i.postimg.cc/cHBCRKrj/btsport.jpg" group-title="UK Sports",UK: BT Sport Mosaic 2 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125447
+#EXTINF:-1 tvg-id="btsportextra1.uk" tvg-name="UK: BT Sport Extra 1 SD" tvg-logo="https://tlgur.com/d/GENdK0Vg" group-title="UK Sports",UK: BT Sport Extra 1 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125448
+#EXTINF:-1 tvg-id="btsportextra2.uk" tvg-name="UK: BT Sport Extra 2 SD" tvg-logo="https://tlgur.com/d/GOq39Db4" group-title="UK Sports",UK: BT Sport Extra 2 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125449
+#EXTINF:-1 tvg-id="btsportextra3.uk" tvg-name="UK: BT Sport Extra 3 SD" tvg-logo="https://tlgur.com/d/gvbEY7og" group-title="UK Sports",UK: BT Sport Extra 3 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125450
+#EXTINF:-1 tvg-id="btsportextra4.uk" tvg-name="UK: BT Sport Extra 4 SD" tvg-logo="" group-title="UK Sports",UK: BT Sport Extra 4 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125451
+#EXTINF:-1 tvg-id="btsportextra5.uk" tvg-name="UK: BT Sport Extra 5 SD" tvg-logo="https://tlgur.com/d/4kxEKZj8" group-title="UK Sports",UK: BT Sport Extra 5 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125452
+#EXTINF:-1 tvg-id="btsportextra6.uk" tvg-name="UK: BT Sport Extra 6 SD" tvg-logo="https://tlgur.com/d/g2Xy0aq8" group-title="UK Sports",UK: BT Sport Extra 6 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125453
+#EXTINF:-1 tvg-id="btsportboxoffice.uk" tvg-name="UK: BT Sport Box Office HD" tvg-logo="https://tlgur.com/d/gwqEpPy8" group-title="UK Sports",UK: BT Sport Box Office HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125454
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1 HD" tvg-logo="https://tlgur.com/d/4RmpvQ6g" group-title="UK Sports",UK: Eurosport 1 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125455
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 HD" tvg-logo="https://tlgur.com/d/g57zPOZ8" group-title="UK Sports",UK: Eurosport 2 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125456
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FreeSports HD" tvg-logo="https://tlgur.com/d/g57zPZP8" group-title="UK Sports",UK: FreeSports HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125457
+#EXTINF:-1 tvg-id="ginxesportstv.uk" tvg-name="UK: Ginx eSports TV SD" tvg-logo="https://logo.iptveditor.com/ginxesportstv.png" group-title="UK Sports",UK: Ginx eSports TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125458
+#EXTINF:-1 tvg-id="horse&country.uk" tvg-name="UK: Horse & Country HD" tvg-logo="https://tlgur.com/d/GJvy092G" group-title="UK Sports",UK: Horse & Country HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125459
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="UK: LaLigaTV FHD" tvg-logo="https://logo.iptveditor.com/laligatv.png" group-title="UK Sports",UK: LaLigaTV FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125460
+#EXTINF:-1 tvg-id="lfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="https://tlgur.com/d/GZ3Bb6Bg" group-title="UK Sports",UK: LFC TV HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125461
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://logo.iptveditor.com/mutv.png" group-title="UK Sports",UK: MUTV HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125462
+#EXTINF:-1 tvg-id="premiersports1.uk" tvg-name="UK: Premier Sports 1 HD" tvg-logo="https://tlgur.com/d/GL0l6wDG" group-title="UK Sports",UK: Premier Sports 1 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125463
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports 2 HD" tvg-logo="https://tlgur.com/d/4x5EW9Y8" group-title="UK Sports",UK: Premier Sports 2 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125464
+#EXTINF:-1 tvg-id="racingtv.uk" tvg-name="UK: Racing TV HD" tvg-logo="https://tlgur.com/d/GJvyA5pG" group-title="UK Sports",UK: Racing TV HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125465
+#EXTINF:-1 tvg-id="sportystuff.uk" tvg-name="UK: SportyStuff FHD" tvg-logo="https://tlgur.com/d/GZ3B2zDg" group-title="UK Sports",UK: SportyStuff FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125466
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-name="UK: Animal Planet SD" tvg-logo="https://tlgur.com/d/4zeL2YJg" group-title="UK Documentary",UK: Animal Planet SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125259
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK: BLAZE SD" tvg-logo="https://tlgur.com/d/4rqEv0wg" group-title="UK Documentary",UK: BLAZE SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125260
+#EXTINF:-1 tvg-id="courttv.uk" tvg-name="UK: Court TV SD" tvg-logo="https://i.imgur.com/EiAtvhM.png" group-title="UK Documentary",UK: Court TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125261
+#EXTINF:-1 tvg-id="crime+investigation.uk" tvg-name="UK: Crime + Investigation HD" tvg-logo="https://tlgur.com/d/g57zdeM8" group-title="UK Documentary",UK: Crime + Investigation HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125262
+#EXTINF:-1 tvg-id="dischistory.uk" tvg-name="UK: Disc.History SD" tvg-logo="https://tlgur.com/d/8e0zpEk4" group-title="UK Documentary",UK: Disc.History SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125263
+#EXTINF:-1 tvg-id="discscience.uk" tvg-name="UK: Disc.Science SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="UK Documentary",UK: Disc.Science SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125264
+#EXTINF:-1 tvg-id="discturbo.uk" tvg-name="UK: Disc.Turbo SD" tvg-logo="https://tlgur.com/d/GXjkdzB4" group-title="UK Documentary",UK: Disc.Turbo SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125265
+#EXTINF:-1 tvg-id="discovery.uk" tvg-name="UK: Discovery HD" tvg-logo="https://tlgur.com/d/8e0zpBB4" group-title="UK Documentary",UK: Discovery HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125266
+#EXTINF:-1 tvg-id="dmax.uk" tvg-name="UK: DMAX SD" tvg-logo="https://tlgur.com/d/8e0zO0B4" group-title="UK Documentary",UK: DMAX SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125267
+#EXTINF:-1 tvg-id="foodnetwork.uk" tvg-name="UK: Food Network SD" tvg-logo="https://tlgur.com/d/4kxEp6Y8" group-title="UK Documentary",UK: Food Network SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125268
+#EXTINF:-1 tvg-id="foodxp.uk" tvg-name="UK: Foodxp SD" tvg-logo="https://cdn.pixabay.com/photo/2017/02/21/08/49/food-2085075_960_720.png" group-title="UK Documentary",UK: Foodxp SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125269
+#EXTINF:-1 tvg-id="hgtv.uk" tvg-name="UK: HGTV SD" tvg-logo="https://tlgur.com/d/8QqKdvj8" group-title="UK Documentary",UK: HGTV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125270
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK: Investigation Discovery SD" tvg-logo="https://tlgur.com/d/GXjkdaB4" group-title="UK Documentary",UK: Investigation Discovery SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125271
+#EXTINF:-1 tvg-id="jewellerymaker.uk" tvg-name="UK: JewelleryMaker SD" tvg-logo="https://www.jewellerymaker.com/global/images/epg/presenters/logo.png" group-title="UK Documentary",UK: JewelleryMaker SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125272
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="UK: Nat Geo HD" tvg-logo="https://tlgur.com/d/GdXlKdQG" group-title="UK Documentary",UK: Nat Geo HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125273
+#EXTINF:-1 tvg-id="natgeowild.uk" tvg-name="UK: Nat Geo Wild HD" tvg-logo="https://tlgur.com/d/GZ3BVODg" group-title="UK Documentary",UK: Nat Geo Wild HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125274
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK: Quest HD" tvg-logo="https://tlgur.com/d/GOq3L0Y4" group-title="UK Documentary",UK: Quest HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125275
+#EXTINF:-1 tvg-id="questred.uk" tvg-name="UK: Quest Red SD" tvg-logo="https://tlgur.com/d/gj0pKq08" group-title="UK Documentary",UK: Quest Red SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125276
+#EXTINF:-1 tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian FHD" tvg-logo="https://tlgur.com/d/8e0zOjW4" group-title="UK Documentary",UK: Smithsonian FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125283
+#EXTINF:-1 tvg-id="bbcone.uk" tvg-name="UK: Travelxp" tvg-logo="https://pluspng.com/img-png/travel-hd-png-travel-xp-hd-png-520.png" group-title="INTERNATIONAL NEWS CHANNELS",UK: Travelxp
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125285
+#EXTINF:-1 tvg-id="bbcone.uk" tvg-name="UK: BBC One HD" tvg-logo="https://tlgur.com/d/gj0pARY8" group-title="UK Entertainment",UK: BBC One HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125286
+#EXTINF:-1 tvg-id="bbctwo.uk" tvg-name="UK: BBC Two HD" tvg-logo="https://tlgur.com/d/4kxE3aQ8" group-title="UK Entertainment",UK: BBC Two HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125287
+#EXTINF:-1 tvg-id="bbcthree.uk" tvg-name="UK: BBC Three HD" tvg-logo="https://tlgur.com/d/GXjXlwo4" group-title="UK Entertainment",UK: BBC Three HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125288
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK: ITV1 HD" tvg-logo="https://tlgur.com/d/GYYOXP0G" group-title="UK Entertainment",UK: ITV1 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125289
+#EXTINF:-1 tvg-id="itv2.uk" tvg-name="UK: ITV2 HD" tvg-logo="https://tlgur.com/d/GW1xZoZ4" group-title="UK Entertainment",UK: ITV2 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125290
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK: ITV3 HD" tvg-logo="https://tlgur.com/d/8l6EjM7g" group-title="UK Entertainment",UK: ITV3 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125291
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK: ITV4 HD" tvg-logo="https://tlgur.com/d/G7B3EPO8" group-title="UK Entertainment",UK: ITV4 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125292
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="https://tlgur.com/d/G7B3EY68" group-title="UK Entertainment",UK: Channel 4 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125293
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK: Channel 5 HD" tvg-logo="https://tlgur.com/d/gvbEZJLg" group-title="UK Entertainment",UK: Channel 5 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125294
+#EXTINF:-1 tvg-id="together.uk" tvg-name="UK: Together SD" tvg-logo="https://thumbs.dreamstime.com/z/team-hands-coming-together-logo-supporting-vector-design-92698453.jpg" group-title="UK Entertainment",UK: Together SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125295
+#EXTINF:-1 tvg-id="bbcfour.uk" tvg-name="UK: BBC Four HD" tvg-logo="https://tlgur.com/d/gvbEZeog" group-title="UK Entertainment",UK: BBC Four HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125296
+#EXTINF:-1 tvg-id="londonlive.uk" tvg-name="UK: London Live SD" tvg-logo="https://logo.iptveditor.com/london.png" group-title="UK Entertainment",UK: London Live SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125297
+#EXTINF:-1 tvg-id="pick.uk" tvg-name="UK: Pick SD" tvg-logo="https://tlgur.com/d/4x5EO568" group-title="UK Entertainment",UK: Pick SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125298
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK: More4 HD" tvg-logo="https://tlgur.com/d/g6RAEzzg" group-title="UK Entertainment",UK: More4 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125299
+#EXTINF:-1 tvg-id="really.uk" tvg-name="UK: Really SD" tvg-logo="http://3.bp.blogspot.com/-eJeBCu_CCXQ/UY1xgMCUU6I/AAAAAAAAZoI/gWz_vluPJ24/s498/Really+logo+2013.png" group-title="UK Entertainment",UK: Really SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125300
+#EXTINF:-1 tvg-id="watch.uk" tvg-name="UK: Watch HD" tvg-logo="http://www.underconsideration.com/brandnew/archives/w_channel_logo.jpg" group-title="UK Entertainment",UK: Watch HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125303
+#EXTINF:-1 tvg-id="e.uk" tvg-name="UK: E! HD" tvg-logo="https://tlgur.com/d/GbZy0kNG" group-title="UK Entertainment",UK: E! HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125304
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS Reality SD" tvg-logo="https://tlgur.com/d/GYYOkRNG" group-title="UK Entertainment",UK: CBS Reality SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125305
+#EXTINF:-1 tvg-id="cbsjustice.uk" tvg-name="UK: CBS Justice SD" tvg-logo="https://tlgur.com/d/4x5EOrx8" group-title="UK Entertainment",UK: CBS Justice SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125306
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK: CBS Drama SD" tvg-logo="https://tlgur.com/d/G7B31K68" group-title="UK Entertainment",UK: CBS Drama SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125307
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK: E4 HD" tvg-logo="https://tlgur.com/d/GolEbZ2g" group-title="UK Entertainment",UK: E4 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125308
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK: MTV HD" tvg-logo="https://tlgur.com/d/4yqE07e4" group-title="UK Entertainment",UK: MTV HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125310
+#EXTINF:-1 tvg-id="s4c.uk" tvg-name="UK: S4C SD" tvg-logo="https://tlgur.com/d/4AX52xPg" group-title="UK Entertainment",UK: S4C SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125312
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: 4seven SD" tvg-logo="https://tlgur.com/d/g0ZDJ6a8" group-title="UK Entertainment",UK: 4seven SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125313
+#EXTINF:-1 tvg-id="forcestv.uk" tvg-name="UK: Forces TV SD" tvg-logo="https://tlgur.com/d/81vPQv3G" group-title="UK Entertainment",UK: Forces TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125315
+#EXTINF:-1 tvg-id="comedycentral.uk" tvg-name="UK: Comedy Central HD" tvg-logo="https://tlgur.com/d/GaxPdpZ8" group-title="UK Entertainment",UK: Comedy Central HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125316
+#EXTINF:-1 tvg-id="paramount.uk" tvg-name="UK: Paramount SD" tvg-logo="https://tlgur.com/d/GdXlkxyG" group-title="UK Entertainment",UK: Paramount SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125317
+#EXTINF:-1 tvg-id="greattv.uk" tvg-name="UK: GREAT! tv SD" tvg-logo="https://i.imgur.com/xyYiaeO.png" group-title="UK Entertainment",UK: GREAT! tv SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125318
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK: TLC HD" tvg-logo="https://tlgur.com/d/4kxE3Ew8" group-title="UK Entertainment",UK: TLC HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125319
+#EXTINF:-1 tvg-id="yesterday.uk" tvg-name="UK: YESTERDAY SD" tvg-logo="https://tlgur.com/d/GPqjWO0g" group-title="UK Entertainment",UK: YESTERDAY SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125320
+#EXTINF:-1 tvg-id="drama.uk" tvg-name="UK: Drama SD" tvg-logo="https://tlgur.com/d/g2XyRKO8" group-title="UK Entertainment",UK: Drama SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125321
+#EXTINF:-1 tvg-id="itvbe.uk" tvg-name="UK: ITVBe SD" tvg-logo="https://tlgur.com/d/8BOBdB6G" group-title="UK Entertainment",UK: ITVBe SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125323
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: Gold HD" tvg-logo="https://tlgur.com/d/g6RAEP3g" group-title="UK Entertainment",UK: Gold HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125324
+#EXTINF:-1 tvg-id="eden.uk" tvg-name="UK: Eden SD" tvg-logo="https://tlgur.com/d/GbZy0wEG" group-title="UK Entertainment",UK: Eden SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125325
+#EXTINF:-1 tvg-id="comedyxtra.uk" tvg-name="UK: Comedy Xtra SD" tvg-logo="https://tlgur.com/d/g2XyExq8" group-title="UK Entertainment",UK: Comedy Xtra SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125326
+#EXTINF:-1 tvg-id="dave.uk" tvg-name="UK: Dave HD" tvg-logo="https://tlgur.com/d/G7B3ElD8" group-title="UK Entertainment",UK: Dave HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125327
+#EXTINF:-1 tvg-id="davejavu.uk" tvg-name="UK: Dave ja vu SD" tvg-logo="https://tlgur.com/d/GXjkWjB4" group-title="UK Entertainment",UK: Dave ja vu SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125328
+#EXTINF:-1 tvg-id="challenge.uk" tvg-name="UK: Challenge SD" tvg-logo="https://tlgur.com/d/4RmpWm0g" group-title="UK Entertainment",UK: Challenge SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125329
+#EXTINF:-1 tvg-id="alibi.uk" tvg-name="UK: Alibi HD" tvg-logo="https://tlgur.com/d/gvbEZEpg" group-title="UK Entertainment",UK: Alibi HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125330
+#EXTINF:-1 tvg-id="5star.uk" tvg-name="UK: 5STAR SD" tvg-logo="https://tlgur.com/d/GMxzjzx8" group-title="UK Entertainment",UK: 5STAR SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125331
+#EXTINF:-1 tvg-id="5select.uk" tvg-name="UK: 5SELECT SD" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/gb/5Select.uk.png" group-title="UK Entertainment",UK: 5SELECT SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125332
+#EXTINF:-1 tvg-id="5usa.uk" tvg-name="UK: 5USA SD" tvg-logo="https://tlgur.com/d/g6RA1wMg" group-title="UK Entertainment",UK: 5USA SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125333
+#EXTINF:-1 tvg-id="geotv.uk" tvg-name="UK: GEO TV SD" tvg-logo="https://tlgur.com/d/gm6pYX94" group-title="UK Entertainment",UK: GEO TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125334
+#EXTINF:-1 tvg-id="oireachtas.uk" tvg-name="UK: Oireachtas SD" tvg-logo="https://logo.iptveditor.com/oireachtas.png" group-title="UK Irish",UK: Oireachtas SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125335
+#EXTINF:-1 tvg-id="rtejr.uk" tvg-name="UK: RTE Jr SD" tvg-logo="https://logo.iptveditor.com/rtejr.png" group-title="UK Irish",UK: RTE Jr SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125336
+#EXTINF:-1 tvg-id="rtenewsnow.uk" tvg-name="UK: RTE News Now SD" tvg-logo="https://tlgur.com/d/8Qq39nj8" group-title="UK Irish",UK: RTE News Now SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125337
+#EXTINF:-1 tvg-id="rteone.uk" tvg-name="UK: RTE One HD" tvg-logo="https://tlgur.com/d/4ze7A2Eg" group-title="UK Irish",UK: RTE One HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125338
+#EXTINF:-1 tvg-id="rtetwo.uk" tvg-name="UK: RTE Two HD" tvg-logo="https://tlgur.com/d/4RmjPlkg" group-title="UK Irish",UK: RTE Two HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125339
+#EXTINF:-1 tvg-id="tg4.uk" tvg-name="UK: TG4 FHD" tvg-logo="https://tlgur.com/d/GdXPoqMG" group-title="UK Irish",UK: TG4 FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125340
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UK: UTV HD" tvg-logo="https://tlgur.com/d/GL0yQKkG" group-title="UK Irish",UK: UTV HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125341
+#EXTINF:-1 tvg-id="virginmediaone.uk" tvg-name="UK: Virgin Media One SD" tvg-logo="https://tlgur.com/d/81vDA3WG" group-title="UK Irish",UK: Virgin Media One SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125342
+#EXTINF:-1 tvg-id="virginmediatwo.uk" tvg-name="UK: Virgin Media Two SD" tvg-logo="https://tlgur.com/d/GZ3xdaBg" group-title="UK Irish",UK: Virgin Media Two SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125343
+#EXTINF:-1 tvg-id="virginone.uk" tvg-name="UK: Virgin One FHD" tvg-logo="https://tlgur.com/d/gm6pDW94" group-title="UK Irish",UK: Virgin One FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125344
+#EXTINF:-1 tvg-id="virgintwo.uk" tvg-name="UK: Virgin Two FHD" tvg-logo="https://tlgur.com/d/GXjXqp24" group-title="UK Irish",UK: Virgin Two FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125345
+#EXTINF:-1 tvg-id="virginthree.uk" tvg-name="UK: Virgin Three SD" tvg-logo="https://tlgur.com/d/8e0yeWl4" group-title="UK Irish",UK: Virgin Three SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125346
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK: Film4 HD" tvg-logo="https://tlgur.com/d/GZ3BA1Bg" group-title="UK Movies",UK: Film4 HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125360
+#EXTINF:-1 tvg-id="greataction.uk" tvg-name="UK: GREAT! Action SD" tvg-logo="https://logo.iptveditor.com/cmoreaction.png" group-title="UK Movies",UK: GREAT! Action SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125362
+#EXTINF:-1 tvg-id="greatclassic.uk" tvg-name="UK: GREAT! Classic SD" tvg-logo="https://logo.iptveditor.com/sctclassic.png" group-title="UK Movies",UK: GREAT! Classic SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125363
+#EXTINF:-1 tvg-id="greatmovies.uk" tvg-name="UK: GREAT! Movies SD" tvg-logo="https://logo.iptveditor.com/skymoviesgreat.png" group-title="UK Movies",UK: GREAT! Movies SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125364
+#EXTINF:-1 tvg-id="horrorchannel.uk" tvg-name="UK: Horror Channel SD" tvg-logo="https://tlgur.com/d/8e0zO7e4" group-title="UK Movies",UK: Horror Channel SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125365
+#EXTINF:-1 tvg-id="movies24.uk" tvg-name="UK: Movies24 SD" tvg-logo="https://tlgur.com/d/gvbEY3og" group-title="UK Movies",UK: Movies24 SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125366
+#EXTINF:-1 tvg-id="talkingpictures.uk" tvg-name="UK: TalkingPictures SD" tvg-logo="https://tlgur.com/d/GJvy05yG" group-title="UK Movies",UK: TalkingPictures SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125378
+#EXTINF:-1 tvg-id="tcmmovies.uk" tvg-name="UK: TCM Movies SD" tvg-logo="https://tlgur.com/d/gpYEnmZ4" group-title="UK Movies",UK: TCM Movies SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125379
+#EXTINF:-1 tvg-id="babytv.uk" tvg-name="UK: Baby TV SD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQF7HvnLSmJGmQ/company-logo_200_200/0/1591198432551?e=2159024400&v=beta&t=1jAPZ3trAg28HVLpyHKwCYjGqmdMqW387PffHzOpDls" group-title="UK Kids",UK: Baby TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125347
+#EXTINF:-1 tvg-id="boomerang.uk" tvg-name="UK: Boomerang HD" tvg-logo="https://tlgur.com/d/89BKPLYG" group-title="UK Kids",UK: Boomerang HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125348
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK: Cartoon Network HD" tvg-logo="https://tlgur.com/d/GdXlKVEG" group-title="UK Kids",UK: Cartoon Network HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125349
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="UK: Cartoonito SD" tvg-logo="https://tlgur.com/d/4yq5Jxy4" group-title="UK Kids",UK: Cartoonito SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125350
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK: CBBC HD" tvg-logo="https://tlgur.com/d/GZ3BVjOg" group-title="UK Kids",UK: CBBC HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125351
+#EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="UK: CBeebies FHD" tvg-logo="https://tlgur.com/d/GZ3BVjBg" group-title="UK Kids",UK: CBeebies FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125352
+#EXTINF:-1 tvg-id="citv.uk" tvg-name="UK: CITV SD" tvg-logo="https://pluspng.com/img-png/itv2-hd-logo-png--416.png" group-title="UK Kids",UK: CITV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125353
+#EXTINF:-1 tvg-id="nickjr.uk" tvg-name="UK: Nick Jr HD" tvg-logo="https://tlgur.com/d/GZ3BVLdg" group-title="UK Kids",UK: Nick Jr HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125354
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: Nickelodeon HD" tvg-logo="https://tlgur.com/d/g30OebY4" group-title="UK Kids",UK: Nickelodeon HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125355
+#EXTINF:-1 tvg-id="nickjrtoo.uk" tvg-name="UK: NickJr. Too SD" tvg-logo="https://tlgur.com/d/gm6EoNb4" group-title="UK Kids",UK: NickJr. Too SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125356
+#EXTINF:-1 tvg-id="nicktoons.uk" tvg-name="UK: Nicktoons SD" tvg-logo="https://tlgur.com/d/g30OeEX4" group-title="UK Kids",UK: Nicktoons SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125357
+#EXTINF:-1 tvg-id="popmax.uk" tvg-name="UK: POP Max SD" tvg-logo="https://tlgur.com/d/89BKP61G" group-title="UK Kids",UK: POP Max SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125358
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK: POP SD" tvg-logo="https://tlgur.com/d/GdXlKOEG" group-title="UK Kids",UK: POP SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125359
+#EXTINF:-1 tvg-id="4music.uk" tvg-name="UK: 4Music SD" tvg-logo="https://tlgur.com/d/G7B31nk8" group-title="UK Music",UK: 4Music SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125380
+#EXTINF:-1 tvg-id="boxhits.uk" tvg-name="UK: Box Hits SD" tvg-logo="https://tlgur.com/d/4qqEZek4" group-title="UK Music",UK: Box Hits SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125381
+#EXTINF:-1 tvg-id="clublandtv.uk" tvg-name="UK: Clubland TV SD" tvg-logo="https://tlgur.com/d/GW1x2wZ4" group-title="UK Music",UK: Clubland TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125382
+#EXTINF:-1 tvg-id="kerrang.uk" tvg-name="UK: Kerrang! SD" tvg-logo="http://epg.usa.epg-4iptv.com/guide/logos/gb/Kerrang.uk.png" group-title="UK Music",UK: Kerrang! SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125383
+#EXTINF:-1 tvg-id="kiss.uk" tvg-name="UK: KISS SD" tvg-logo="https://tlgur.com/d/g0ZDk7a8" group-title="UK Music",UK: KISS SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125384
+#EXTINF:-1 tvg-id="magic.uk" tvg-name="UK: Magic SD" tvg-logo="https://tlgur.com/d/G7B3VVk8" group-title="UK Music",UK: Magic SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125385
+#EXTINF:-1 tvg-id="mtvbase.uk" tvg-name="UK: MTV BASE SD" tvg-logo="https://tlgur.com/d/g2XyBBl8" group-title="UK Music",UK: MTV BASE SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125386
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="UK: MTV CLASSIC SD" tvg-logo="https://tlgur.com/d/G7B3VVO8" group-title="UK Music",UK: MTV CLASSIC SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125387
+#EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="UK: MTV HITS SD" tvg-logo="https://tlgur.com/d/4yqEeeZ4" group-title="UK Music",UK: MTV HITS SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125388
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="UK: MTV MUSIC SD" tvg-logo="https://tlgur.com/d/4AX5KKAg" group-title="UK Music",UK: MTV MUSIC SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125389
+#EXTINF:-1 tvg-id="now70s.uk" tvg-name="UK: NOW 70s SD" tvg-logo="https://tlgur.com/d/8nlE99pg" group-title="UK Music",UK: NOW 70s SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125390
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK: NOW 80s SD" tvg-logo="https://tlgur.com/d/GMxzNNW8" group-title="UK Music",UK: NOW 80s SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125391
+#EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK: NOW 90s SD" tvg-logo="https://tlgur.com/d/GolEYYYg" group-title="UK Music",UK: NOW 90s SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125392
+#EXTINF:-1 tvg-id="spotlighttv.uk" tvg-name="UK: Spotlight TV SD" tvg-logo="https://i.imgur.com/HIR2PsR.png" group-title="UK Music",UK: Spotlight TV SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125393
+#EXTINF:-1 tvg-id="thebox.uk" tvg-name="UK: The Box SD" tvg-logo="https://i.imgur.com/qytgqIS.png" group-title="UK Music",UK: The Box SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125394
+#EXTINF:-1 tvg-id="tinypop.uk" tvg-name="UK: Tiny Pop SD" tvg-logo="https://tlgur.com/d/GJvyo6PG" group-title="UK Music",UK: Tiny Pop SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125395
+#EXTINF:-1 tvg-id="tracehits.uk" tvg-name="UK: Trace Hits SD" tvg-logo="https://trace.tv/wp-content/themes/tracehome/images/logo.png" group-title="UK Music",UK: Trace Hits SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125396
+#EXTINF:-1 tvg-id="tracevault.uk" tvg-name="UK: Trace Vault SD" tvg-logo="https://i.imgur.com/jbW93q9.png" group-title="UK Music",UK: Trace Vault SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125397
+#EXTINF:-1 tvg-id="" tvg-name="UK: TalkTV" tvg-logo="" group-title="UK News",UK: TalkTV
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125398
+#EXTINF:-1 tvg-id="" tvg-name="UK: France 24 FHD" tvg-logo="" group-title="UK News",UK: France 24 FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125399
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="UK: Al Jazeera FHD" tvg-logo="https://pluspng.com/img-png/al-jazeera-logo-png-al-jazeera-logo-1431.png" group-title="UK News",UK: Al Jazeera FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125400
+#EXTINF:-1 tvg-id="arisenews.uk" tvg-name="UK: Arise News SD" tvg-logo="ttps://tlgur.com/d/4kxEKd68" group-title="UK News",UK: Arise News SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125401
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC News HD" tvg-logo="ttps://tlgur.com/d/GENdK30g" group-title="UK News",UK: BBC News HD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125402
+#EXTINF:-1 tvg-id="bbcparliament.uk" tvg-name="UK: BBC Parliament SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-parliament-uk.png" group-title="UK News",UK: BBC Parliament SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125403
+#EXTINF:-1 tvg-id="bloomberg.uk" tvg-name="UK: Bloomberg FHD" tvg-logo="https://www.pikpng.com/pngl/b/184-1842860_bloomberg-logo-png-clipart.png" group-title="UK News",UK: Bloomberg FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125404
+#EXTINF:-1 tvg-id="cnbc.uk" tvg-name="UK: CNBC FHD" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2016/07/cnbc-logo.png" group-title="UK News",UK: CNBC FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125405
+#EXTINF:-1 tvg-id="cnn.uk" tvg-name="UK: CNN FHD" tvg-logo="https://tlgur.com/d/GOq39yM4" group-title="UK News",UK: CNN FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125406
+#EXTINF:-1 tvg-id="euronews.uk" tvg-name="UK: Euronews SD" tvg-logo="https://tlgur.com/d/4yqEQoD4" group-title="UK News",UK: Euronews SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125407
+#EXTINF:-1 tvg-id="bbcone.uk" tvg-name="UK: GB News FHD" tvg-logo="https://tlgur.com/d/8l6Ep5Lg" group-title="UK News",UK: GB News FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125408
+#EXTINF:-1 tvg-id="geonews.uk" tvg-name="UK: GEO News SD" tvg-logo="https://tlgur.com/d/gpYEnyN4" group-title="UK News",UK: GEO News SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125409
+#EXTINF:-1 tvg-id="rt.uk" tvg-name="UK: RT SD" tvg-logo="http://www.industryandbusiness.ie/wp-content/uploads/2015/11/russia-today.png" group-title="UK News",UK: RT SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125410
+#EXTINF:-1 tvg-id="tvcnews.uk" tvg-name="UK: TVC News SD" tvg-logo="https://tlgur.com/d/gpYEnd14" group-title="UK News",UK: TVC News SD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125412
+#EXTINF:-1 tvg-id="wion.uk" tvg-name="UK: WION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="UK News",UK: WION FHD
+http://tv.iptvtotaal.com:8000/2202319751627/4459605793/125413
